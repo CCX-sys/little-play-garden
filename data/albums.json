@@ -1,0 +1,40 @@
+{
+  "albums": [
+    {
+      "id": "animals",
+      "title": "动物世界",
+      "cover": "/assets/covers/animals.svg",
+      "description": "寻找动物世界里不一样的地方"
+    },
+    {
+      "id": "ocean",
+      "title": "海底世界",
+      "cover": "/assets/covers/ocean.svg",
+      "description": "寻找海底世界里不一样的地方"
+    },
+    {
+      "id": "dinosaurs",
+      "title": "恐龙乐园",
+      "cover": "/assets/covers/dinosaurs.svg",
+      "description": "寻找恐龙乐园里不一样的地方"
+    },
+    {
+      "id": "farm",
+      "title": "快乐农场",
+      "cover": "/assets/covers/farm.svg",
+      "description": "寻找快乐农场里不一样的地方"
+    },
+    {
+      "id": "traffic",
+      "title": "城市交通",
+      "cover": "/assets/covers/traffic.svg",
+      "description": "寻找城市交通里不一样的地方"
+    },
+    {
+      "id": "life",
+      "title": "日常生活",
+      "cover": "/assets/covers/life.svg",
+      "description": "寻找日常生活里不一样的地方"
+    }
+  ]
+}

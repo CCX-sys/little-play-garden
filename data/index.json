@@ -1,0 +1,422 @@
+[
+  {
+    "id": "animals-01",
+    "albumId": "animals",
+    "title": "森林茶会",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/animals-01.webp"
+  },
+  {
+    "id": "animals-02",
+    "albumId": "animals",
+    "title": "熊猫竹林",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/animals-02.webp"
+  },
+  {
+    "id": "animals-03",
+    "albumId": "animals",
+    "title": "长颈鹿花园",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/animals-03.webp"
+  },
+  {
+    "id": "animals-04",
+    "albumId": "animals",
+    "title": "企鹅滑冰",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/animals-04.webp"
+  },
+  {
+    "id": "animals-05",
+    "albumId": "animals",
+    "title": "猴子果园",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/animals-05.webp"
+  },
+  {
+    "id": "animals-06",
+    "albumId": "animals",
+    "title": "狮子草原",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/animals-06.webp"
+  },
+  {
+    "id": "animals-07",
+    "albumId": "animals",
+    "title": "猫咪书屋",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/animals-07.webp"
+  },
+  {
+    "id": "animals-08",
+    "albumId": "animals",
+    "title": "狐狸露营",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/animals-08.webp"
+  },
+  {
+    "id": "animals-09",
+    "albumId": "animals",
+    "title": "河马游泳",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/animals-09.webp"
+  },
+  {
+    "id": "animals-10",
+    "albumId": "animals",
+    "title": "小狗游乐场",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/animals-10.webp"
+  },
+  {
+    "id": "ocean-01",
+    "albumId": "ocean",
+    "title": "珊瑚花园",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/ocean-01.webp"
+  },
+  {
+    "id": "ocean-02",
+    "albumId": "ocean",
+    "title": "海龟旅行",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/ocean-02.webp"
+  },
+  {
+    "id": "ocean-03",
+    "albumId": "ocean",
+    "title": "章鱼餐厅",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/ocean-03.webp"
+  },
+  {
+    "id": "ocean-04",
+    "albumId": "ocean",
+    "title": "海马音乐会",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/ocean-04.webp"
+  },
+  {
+    "id": "ocean-05",
+    "albumId": "ocean",
+    "title": "小潜水艇",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/ocean-05.webp"
+  },
+  {
+    "id": "ocean-06",
+    "albumId": "ocean",
+    "title": "鲸鱼泡泡",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/ocean-06.webp"
+  },
+  {
+    "id": "ocean-07",
+    "albumId": "ocean",
+    "title": "螃蟹沙堡",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/ocean-07.webp"
+  },
+  {
+    "id": "ocean-08",
+    "albumId": "ocean",
+    "title": "水母灯会",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/ocean-08.webp"
+  },
+  {
+    "id": "ocean-09",
+    "albumId": "ocean",
+    "title": "海豚跳跃",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/ocean-09.webp"
+  },
+  {
+    "id": "ocean-10",
+    "albumId": "ocean",
+    "title": "海底藏宝",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/ocean-10.webp"
+  },
+  {
+    "id": "dinosaurs-01",
+    "albumId": "dinosaurs",
+    "title": "三角龙野餐",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/dinosaurs-01.webp"
+  },
+  {
+    "id": "dinosaurs-02",
+    "albumId": "dinosaurs",
+    "title": "腕龙树林",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/dinosaurs-02.webp"
+  },
+  {
+    "id": "dinosaurs-03",
+    "albumId": "dinosaurs",
+    "title": "翼龙天空",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/dinosaurs-03.webp"
+  },
+  {
+    "id": "dinosaurs-04",
+    "albumId": "dinosaurs",
+    "title": "恐龙孵蛋",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/dinosaurs-04.webp"
+  },
+  {
+    "id": "dinosaurs-05",
+    "albumId": "dinosaurs",
+    "title": "剑龙花谷",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/dinosaurs-05.webp"
+  },
+  {
+    "id": "dinosaurs-06",
+    "albumId": "dinosaurs",
+    "title": "甲龙池塘",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/dinosaurs-06.webp"
+  },
+  {
+    "id": "dinosaurs-07",
+    "albumId": "dinosaurs",
+    "title": "恐龙小集市",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/dinosaurs-07.webp"
+  },
+  {
+    "id": "dinosaurs-08",
+    "albumId": "dinosaurs",
+    "title": "火山远足",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/dinosaurs-08.webp"
+  },
+  {
+    "id": "dinosaurs-09",
+    "albumId": "dinosaurs",
+    "title": "恐龙游乐园",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/dinosaurs-09.webp"
+  },
+  {
+    "id": "dinosaurs-10",
+    "albumId": "dinosaurs",
+    "title": "恐龙夜营",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/dinosaurs-10.webp"
+  },
+  {
+    "id": "farm-01",
+    "albumId": "farm",
+    "title": "公鸡清晨",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/farm-01.webp"
+  },
+  {
+    "id": "farm-02",
+    "albumId": "farm",
+    "title": "奶牛牧场",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/farm-02.webp"
+  },
+  {
+    "id": "farm-03",
+    "albumId": "farm",
+    "title": "绵羊草坡",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/farm-03.webp"
+  },
+  {
+    "id": "farm-04",
+    "albumId": "farm",
+    "title": "苹果丰收",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/farm-04.webp"
+  },
+  {
+    "id": "farm-05",
+    "albumId": "farm",
+    "title": "蔬菜菜园",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/farm-05.webp"
+  },
+  {
+    "id": "farm-06",
+    "albumId": "farm",
+    "title": "鸭子池塘",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/farm-06.webp"
+  },
+  {
+    "id": "farm-07",
+    "albumId": "farm",
+    "title": "马厩下午",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/farm-07.webp"
+  },
+  {
+    "id": "farm-08",
+    "albumId": "farm",
+    "title": "蜂蜜花田",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/farm-08.webp"
+  },
+  {
+    "id": "farm-09",
+    "albumId": "farm",
+    "title": "农场水车",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/farm-09.webp"
+  },
+  {
+    "id": "farm-10",
+    "albumId": "farm",
+    "title": "农场夜晚",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/farm-10.webp"
+  },
+  {
+    "id": "traffic-01",
+    "albumId": "traffic",
+    "title": "彩色公交",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/traffic-01.webp"
+  },
+  {
+    "id": "traffic-02",
+    "albumId": "traffic",
+    "title": "火车站台",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/traffic-02.webp"
+  },
+  {
+    "id": "traffic-03",
+    "albumId": "traffic",
+    "title": "机场出发",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/traffic-03.webp"
+  },
+  {
+    "id": "traffic-04",
+    "albumId": "traffic",
+    "title": "消防车出动",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/traffic-04.webp"
+  },
+  {
+    "id": "traffic-05",
+    "albumId": "traffic",
+    "title": "工地小伙伴",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/traffic-05.webp"
+  },
+  {
+    "id": "traffic-06",
+    "albumId": "traffic",
+    "title": "自行车公园",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/traffic-06.webp"
+  },
+  {
+    "id": "traffic-07",
+    "albumId": "traffic",
+    "title": "港口渡轮",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/traffic-07.webp"
+  },
+  {
+    "id": "traffic-08",
+    "albumId": "traffic",
+    "title": "雪地缆车",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/traffic-08.webp"
+  },
+  {
+    "id": "traffic-09",
+    "albumId": "traffic",
+    "title": "热气球节",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/traffic-09.webp"
+  },
+  {
+    "id": "traffic-10",
+    "albumId": "traffic",
+    "title": "校车到站",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/traffic-10.webp"
+  },
+  {
+    "id": "life-01",
+    "albumId": "life",
+    "title": "早餐厨房",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/life-01.webp"
+  },
+  {
+    "id": "life-02",
+    "albumId": "life",
+    "title": "温暖客厅",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/life-02.webp"
+  },
+  {
+    "id": "life-03",
+    "albumId": "life",
+    "title": "整理房间",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/life-03.webp"
+  },
+  {
+    "id": "life-04",
+    "albumId": "life",
+    "title": "花园浇水",
+    "difficulty": "easy",
+    "thumbnail": "/assets/thumbnails/life-04.webp"
+  },
+  {
+    "id": "life-05",
+    "albumId": "life",
+    "title": "图书馆阅读",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/life-05.webp"
+  },
+  {
+    "id": "life-06",
+    "albumId": "life",
+    "title": "面包小店",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/life-06.webp"
+  },
+  {
+    "id": "life-07",
+    "albumId": "life",
+    "title": "雨天出门",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/life-07.webp"
+  },
+  {
+    "id": "life-08",
+    "albumId": "life",
+    "title": "公园滑梯",
+    "difficulty": "normal",
+    "thumbnail": "/assets/thumbnails/life-08.webp"
+  },
+  {
+    "id": "life-09",
+    "albumId": "life",
+    "title": "生日派对",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/life-09.webp"
+  },
+  {
+    "id": "life-10",
+    "albumId": "life",
+    "title": "冬日穿衣",
+    "difficulty": "advanced",
+    "thumbnail": "/assets/thumbnails/life-10.webp"
+  }
+]

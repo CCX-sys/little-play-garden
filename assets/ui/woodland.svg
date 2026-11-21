@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="310" viewBox="0 0 1280 310" fill="none">
+  <defs>
+    <pattern id="grain" width="29" height="27" patternUnits="userSpaceOnUse">
+      <g fill="#355141" opacity=".10"><circle cx="2" cy="7" r=".75"/><circle cx="18" cy="3" r=".55"/><path d="m8 22 2-1-.5 1.5z"/><circle cx="25" cy="16" r=".8"/></g>
+      <g fill="#fff" opacity=".28"><path d="m7 11 2-.4-.5 1z"/><circle cx="15" cy="18" r=".9"/><circle cx="27" cy="26" r=".6"/></g>
+    </pattern>
+    <pattern id="grass" width="47" height="21" patternUnits="userSpaceOnUse">
+      <path d="m6 9 3-3m18 11 2-2m7-12 2-1" stroke="#59876d" opacity=".23" stroke-width="1.8" stroke-linecap="round"/>
+    </pattern>
+    <g id="fir">
+      <path d="m0-78-15 24 8-1-15 23 11-2-18 24c13 3 40 3 56-1l-16-19 10 1-14-24 7 2z" fill="currentColor"/>
+      <path d="m-1-52 .4 52m0-26-8-6m8 14 8-5" stroke="#f1efd5" stroke-opacity=".36" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g id="sprig" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+      <path d="M0 0q1-15-4-27"/>
+      <g fill="currentColor" stroke="none"><path d="M-2-8Q-15-10-13-17q10 0 11 9M-3-16q0-12 8-13 3 8-8 13M-4-22q-11-3-10-9 8-1 10 9"/></g>
+    </g>
+    <g id="mushroom">
+      <path d="m-3-9-1 14q3 3 8 0L3-9z" fill="#ffeec8" stroke="#795c46" stroke-width="1.5"/>
+      <path d="M-15-8c1-6 6-15 15-16 8 0 14 7 17 14 1 4-10 6-17 6-6 0-15-1-15-4z" fill="#cb6548"/>
+      <path d="M-13-7q14 6 28-2" stroke="#a74f3c" stroke-width="2"/>
+      <g fill="#ffe4b6"><ellipse cx="-6" cy="-15" rx="3" ry="2" transform="rotate(-25 -6 -15)"/><circle cx="5" cy="-18" r="2.3"/><circle cx="10" cy="-12" r="1.7"/></g>
+    </g>
+  </defs>
+  <path fill="#d9ebe0" d="M0 0h1280v310H0z"/>
+  <g fill="#f6f5dc"><path d="M598 62q3-10 15-10 6-15 21-14 17 0 21 17 17-1 23 8-40 4-80-1z"/><path d="M868 33q6-6 12-6 3-10 13-10 11 0 15 12 8-1 13 4-25 2-53 0z"/></g>
+  <circle cx="792" cy="70" r="27" fill="#f6d491"/>
+  <path d="M350 214q104-58 209-40 61 11 128-20 43-23 94-17 67 10 116-32 48-48 90-29 53 29 95 13 75-35 198-46v177H350z" fill="#adcbb6"/>
+  <path d="M560 203q87-52 125-46 53 10 101-40 29-29 55-30 39 2 93 46 40 33 95 14 68-19 133-12 65 7 118 1v102H560z" fill="#99bcac"/>
+  <g color="#729f91">
+    <use href="#fir" transform="translate(694 196) scale(.58)"/><use href="#fir" transform="translate(723 191) scale(.77)"/><use href="#fir" transform="translate(746 189) scale(.59)"/>
+    <use href="#fir" transform="translate(829 180) scale(.87)"/><use href="#fir" transform="translate(854 179) scale(.64)"/><use href="#fir" transform="translate(879 178) scale(.94)"/>
+    <use href="#fir" transform="translate(1167 161) scale(.9)"/><use href="#fir" transform="translate(1193 158) scale(.65)"/>
+  </g>
+  <path d="M0 280q129-36 250-21 98 12 216-36 106-42 207-35 79 6 161-19 127-40 246 9 101 44 200-1v133H0z" fill="#b7cf95"/>
+  <path d="M344 292q121-26 221-62 148-53 277-24 67 14 146-7 155-39 292 24v87H344z" fill="#92b787"/>
+  <path d="M787 196c-81 21-71 25-26 30 69 8 57 21 23 32-45 14-51 24-30 52h-97c-9-29 22-44 80-61 19-5 18-10-10-13-76-8-66-20 60-40z" fill="#e2cc9e"/>
+  <path d="M0 296q168-23 295-4 115 16 222-16 101-33 186 0 55 21 132-3 134-42 230-22 126 26 215-6v65H0z" fill="#a6bf82"/>
+  <path d="M0 296q168-23 295-4 115 16 222-16 101-33 186 0 55 21 132-3 134-42 230-22 126 26 215-6v65H0z" fill="url(#grass)"/>
+  <g color="#548777"><use href="#fir" transform="translate(614 235) scale(.8)"/><use href="#fir" transform="translate(649 230) scale(1.2)"/><use href="#fir" transform="translate(681 228) scale(.83)"/></g>
+  <g color="#457464"><use href="#fir" transform="translate(1244 197) scale(2.05)"/><use href="#fir" transform="translate(1271 208) scale(1.48)"/></g>
+  <g stroke="#5c8676" stroke-width="2.5" stroke-linecap="round"><path d="M749 72q4-3 9 1 2-6 7-7m-35 24q3-2 6 0 2-4 5-5M850 54q3-3 8-1 3-5 8-6"/></g>
+  <g fill="#768d69"><ellipse cx="644" cy="250" rx="12" ry="3"/><ellipse cx="575" cy="266" rx="8" ry="2"/><ellipse cx="1187" cy="261" rx="16" ry="3"/></g>
+  <ellipse cx="1002" cy="272" rx="92" ry="10" fill="#71946d" opacity=".58"/>
+  <!-- The crouching explorer: bag, paws, jacket, head, then the near arm. -->
+  <g stroke="#584e3c" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M938 201q-16 0-22-7-6-11 0-19 9-12 23-4z" fill="#fff4d7" stroke-width="2.5"/>
+    <path d="M947 236q-4 14 2 22 6 8 29 10 12 1 16-4 3-5-6-10l-18-10z" fill="#fcf1d4" stroke-width="3"/>
+    <path d="M984 232q-2 19 10 27 10 7 28 7 11 0 12-5 1-6-10-9l-12-13z" fill="#fff4d9" stroke-width="3"/>
+    <path d="M949 208q-13 16-8 34 14 12 39 8l6-8 8 6q10 1 21-5-3-26-15-37z" fill="#486d64" stroke-width="3"/>
+    <path d="M968 167q-20 4-26 19l-4 36q26 15 60 8l9-27-9-28z" fill="#c87949" stroke-width="3"/>
+    <path d="M948 175q-13-6-23 0-12 10-13 31-1 12 9 16l18 4q7-1 8-9l5-29q1-8-4-13z" fill="#75998b" stroke-width="3"/>
+    <path d="M915 192q16 6 33 5l1-12q-2-12-13-12-14 0-17 9z" fill="#9caf8e" stroke-width="2"/>
+    <path d="m927 196-1 12 7 1 2-12z" fill="#d6aa66" stroke-width="1.6"/>
+    <path d="M946 178q3-9 10-8 7 1 13 9l-5 4q-5-7-10-6z" fill="#795f42" stroke-width="2"/>
+    <path d="M962 175q7 15 23 19l14-12-7-12z" fill="#699e95" stroke-width="2.4"/>
+    <path d="m982 189 4 15 8-8 6 2-5-17z" fill="#74a89b" stroke-width="2"/>
+    <path d="M958 119c-7-18-15-47-12-63 2-14 11-17 20-5 10 16 14 43 13 66z" fill="#fff5da" stroke-width="3"/>
+    <path d="M958 61q-5-5-4 8 2 17 10 31z" fill="#dfa78b" stroke="none"/>
+    <path d="M977 111q1-39 10-56 9-17 16-10 11 10 1 37l-13 34z" fill="#fff5da" stroke-width="3"/>
+    <path d="M997 57q5-7 4 3-2 17-11 31 3-22 7-34z" fill="#e3ac91" stroke="none"/>
+    <path d="M958 121q15-18 40-14 22 4 28 24 2 10 12 16 9 6 1 15-13 17-42 17-23 0-37-11-18-15-2-47z" fill="#fff3d5" stroke-width="3"/>
+    <path d="M1029 147q7-5 12-1 2 4-3 7-4 3-9-6z" fill="#665145" stroke="none"/>
+    <path d="M1029 157q-1 5-7 5" stroke-width="2.4"/>
+    <ellipse cx="1008" cy="144" rx="3.5" ry="5.3" fill="#51483d" stroke="none"/>
+    <path d="m1000 135 7-2" stroke-width="2.5"/>
+    <ellipse cx="995" cy="156" rx="8" ry="4.4" fill="#e6ad86" stroke="none"/>
+    <path d="M942 118q0-23 18-31 23-11 41 2 9 6 14 19l-11 11z" fill="#e8b855" stroke-width="3"/>
+    <path d="M945 107q27-13 64-6l4 9q-35-4-66 8z" fill="#ac804a" stroke-width="1.5"/>
+    <path d="M934 120q25-21 70-17 16 1 26 10-6 5-19 5-37-5-66 8-9 4-12 1-3-2 1-7z" fill="#f0c975" stroke-width="3"/>
+    <path d="M957 98q4-7 11-10m11 0 7 2" stroke="#f7dca1" stroke-width="2"/>
+    <path d="M1002 187q11-1 18 3l15 3 10 11q-18 10-39 2z" fill="#fff1d0" stroke-width="3"/>
+    <path d="M979 179q9-8 18-1l16 9-8 21q-13 3-24-6-11-10-2-23z" fill="#d58a55" stroke-width="3"/>
+    <path d="m998 205 8-17" stroke="#ac6542" stroke-width="2"/>
+    <path d="m1032 205 33-37 6 6-32 37q-7 4-9 0-2-3 2-6z" fill="#a5754b" stroke-width="2.8"/>
+    <circle cx="1083" cy="150" r="30" fill="#afcec1" fill-opacity=".58" stroke-width="8"/>
+    <circle cx="1083" cy="150" r="30" stroke="#d2a654" stroke-width="4.5"/>
+    <path d="M1066 146q1-11 12-14m5-1h3" stroke="#edf4de" stroke-width="4"/>
+    <path d="M1030 193q3-5 8-7 5-3 8 2 4 1 4 5 3 4-1 8l-5 4q-4 4-9 1-8-4-5-13z" fill="#fff2d5" stroke-width="2.4"/>
+  </g>
+  <!-- Things to discover at ground level. -->
+  <g transform="translate(1129 256) scale(1.28)"><use href="#mushroom"/></g>
+  <g transform="translate(1154 265) scale(.7) rotate(12)"><use href="#mushroom"/></g>
+  <g transform="translate(1110 220) rotate(-16)">
+    <ellipse cx="0" cy="0" rx="7.5" ry="5.5" fill="#c85840" stroke="#594b3e" stroke-width="1.4"/><circle cx="6" cy="-.5" r="3.2" fill="#4d4d3c"/>
+    <path d="m-6-1 9 1m2-3 3-3m-2 4 4-2" stroke="#514c3c" stroke-width="1.3" stroke-linecap="round"/><g fill="#514c3c"><circle cx="-3" cy="-2.5" r="1.2"/><circle cx="0" cy="2.6" r="1.3"/></g>
+  </g>
+  <g color="#608568"><use href="#sprig" transform="translate(900 275) rotate(-18) scale(1.15)"/><use href="#sprig" transform="translate(1168 269) rotate(26)"/><use href="#sprig" transform="translate(1220 293) rotate(-10) scale(1.3)"/></g>
+  <g color="#699473"><use href="#sprig" transform="translate(550 276) rotate(-20) scale(.85)"/><use href="#sprig" transform="translate(1266 263) rotate(17) scale(1.5)"/></g>
+  <g fill="#f4d38e"><circle cx="858" cy="274" r="4"/><circle cx="865" cy="270" r="3"/><circle cx="868" cy="276" r="2.8"/><circle cx="1187" cy="285" r="3.4"/><circle cx="1180" cy="287" r="2.8"/></g>
+  <path fill="url(#grain)" d="M0 0h1280v310H0z"/>
+</svg>

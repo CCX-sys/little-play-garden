@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="草甸上的三块彩色数字积木">
+  <defs>
+    <pattern id="dust" width="37" height="29" patternUnits="userSpaceOnUse">
+      <path d="M3 5l2-1m19 10 1 1m-13 10 2-1m18-20 1 1" fill="none" stroke="#7a4d3a" stroke-opacity=".16" stroke-width="1.3"/>
+      <path d="M8 18l2-1m19 7 2 1m-16-23 2 1" stroke="#fff4d9" stroke-opacity=".56" stroke-width="1.4"/>
+    </pattern>
+    <g id="grass" fill="#869571"><path d="M0 0q-8-19-16-21 1 12 16 21m0 0q-2-24 8-29 4 11-8 29m2 0q12-14 20-12-3 8-20 12"/></g>
+    <g id="flower"><g fill="#fff3d3"><ellipse cy="-5" ry="5" rx="3.1"/><ellipse cy="5" ry="5" rx="3.1"/><ellipse cx="-5" ry="3.1" rx="5"/><ellipse cx="5" ry="3.1" rx="5"/></g><circle r="3.5" fill="#eaa34a"/></g>
+    <g id="spark"><path d="M0-14q2 12 12 14Q2 2 0 15-3 3-13 0-4-3 0-14" fill="#fff5d8"/></g>
+  </defs>
+  <path fill="#f4cdab" d="M0 0h600v300H0z"/>
+  <circle cx="490" cy="29" r="66" fill="#f9ddb9"/>
+  <path d="M0 179Q73 158 122 174T225 170q67-25 122-7t102-4q78-27 151-14v155H0" fill="#efba98"/>
+  <path d="M0 218q82-18 166-7t151-9q85-22 163-9t120-12v119H0" fill="#e7ab87"/>
+  <path d="M0 256q87-23 196-7t184-2q103-16 220-12v65H0" fill="#dfa27d"/>
+  <g fill="none" stroke="#bc7c5d" stroke-width="2.1" stroke-linecap="round" opacity=".48"><path d="m38 230 9-2m5 0 4-1m77-5 6 1m23 54 12-1m363-43 12-2m14 0 5-1m-35 40 11 1M93 267l10-1m-76 11 8-1"/></g>
+  <g opacity=".65"><use href="#grass" transform="translate(14 177) scale(.75)"/><use href="#grass" transform="translate(567 174) scale(.7)"/><use href="#grass" transform="translate(549 175) scale(-.47 .47)"/></g>
+  <use href="#spark" transform="translate(209 104) scale(.72)"/><use href="#spark" transform="translate(495 82) scale(.56)"/><use href="#spark" transform="translate(165 153) scale(.40)"/>
+  <ellipse cx="350" cy="250" rx="172" ry="18" fill="#ab785e" opacity=".23"/>
+  <!-- Three painted wooden blocks. Curved edges and shallow engraved lines remain visible at card size. -->
+  <g transform="translate(195 162) rotate(-9 48 45)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m1 1 25-17q3-2 8-1l80 8-26 18z" fill="#9cbfb3"/>
+    <path d="m88 9 26-18 1 78q0 5-4 8L87 96z" fill="#588e83"/>
+    <path d="m3 0 83 8q4 .4 4 5l-2 78q0 5-5 4L3 85q-4-.5-4-5l1-75q0-4 3-5" fill="#74a599"/>
+    <path d="m9 8 72 7-2 69-72-8z" stroke="#b2cbc0" stroke-width="2.3" fill="none"/>
+    <path d="m28 41 17-12 9 1-1 41-12-1 1-28-9 7z" fill="#fff1c8"/>
+    <g stroke="#497c72" stroke-width="1.8" fill="none" opacity=".6"><path d="m95 38 12-11m-12 19 8-7m-79 38 11 1m-23-58 9 1"/></g>
+  </g>
+  <g transform="translate(328 151) rotate(7 58 51)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m0 0 28-18q4-3 11-2l97 5-28 24z" fill="#f0c66c"/>
+    <path d="m106 8 30-23 1 92q0 5-4 8l-27 18z" fill="#c68d49"/>
+    <path d="m3 0 101 7q5 0 5 6l-2 88q0 5-6 4l-99-7q-4 0-4-5l1-88q0-4 4-5" fill="#e4ac55"/>
+    <path d="m7 9 91 6-1 80-91-6z" fill="none" stroke="#f5cb78" stroke-width="2.6"/>
+    <path d="M31 33q9-13 24-12 19 1 20 14 1 10-10 16 12 4 11 15-1 18-22 19-18 0-27-13l11-8q6 8 15 8 9 0 9-7 0-8-14-8l-2-11q15 0 15-7 0-5-7-6-8 0-13 8z" fill="#fff2d0"/>
+    <g stroke="#aa7842" stroke-width="1.8" fill="none" opacity=".6"><path d="m113 35 12-10m-12 18 9-7m-90 46 8 .4m69-123 9-.2"/></g>
+  </g>
+  <g transform="translate(271 66) rotate(-5 58 46)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m0 0 28-16q3-2 9-2l89 5-26 19z" fill="#f2a087"/>
+    <path d="m99 6 27-19 2 77q0 5-4 8l-25 18z" fill="#b76e5e"/>
+    <path d="m4 0 92 5q5 0 5 5v76q0 5-6 5L2 85q-3 0-3-4V6q0-5 5-6" fill="#dc8671"/>
+    <path d="m7 8 86 5v69L7 77z" fill="none" stroke="#f3b099" stroke-width="2.3"/>
+    <path d="M26 33q6-15 24-14 20 0 21 17 0 12-14 23l-7 6 22 1v11l-45-2v-9l21-18q10-8 10-13 0-5-7-5-9-1-14 9z" fill="#ffefd0"/>
+    <g stroke="#ab6657" stroke-width="1.7" fill="none" opacity=".58"><path d="m109 26 12-8m-11 14 8-6M12 69l9 .5M47-10l15 .2"/></g>
+  </g>
+  <use href="#grass" transform="translate(118 252) scale(.77)"/><use href="#grass" transform="translate(512 257) scale(-.81 .81)"/>
+  <g stroke="#889572" fill="none" stroke-width="2.5"><path d="M106 253q-3-13-7-23m411 25q5-14 15-22"/></g>
+  <use href="#flower" transform="translate(98 228) scale(.85)"/><use href="#flower" transform="translate(526 232) scale(.74)"/>
+  <rect width="600" height="300" fill="url(#dust)" pointer-events="none"/>
+</svg>
