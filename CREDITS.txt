@@ -3,4 +3,4 @@ Illustrations adapted in framing, scale, color and composition from Microsoft Fl
 https://github.com/microsoft/fluentui-emoji
 https://github.com/googlefonts/noto-emoji
 The people, action and story illustrations were created for the game with ImageGen. Learning shapes, numbers and selected objects are original models.
-English audio uses the en_US LJSpeech medium Piper voice trained by Bryce Beattie on the public-domain LJ Speech Dataset. The word hat is excerpted from recording LJ018-0019 by Linda Johnson, https://keithito.com/LJ-Speech-Dataset/.
+English audio uses the en_GB Cori high UK English Piper voice by Bryce Beattie (public domain). 160 recordings use this voice. The letter Z is adapted from the UK speaker's public-domain recording En-uk-z.ogg (PD-self; author presumed Celestianpower), https://commons.wikimedia.org/wiki/File:En-uk-z.ogg. Source and model information: https://brycebeattie.com/files/tts/
