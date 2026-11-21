@@ -1,0 +1,54 @@
+[
+  {
+    "id": "family",
+    "title": "家庭与人物"
+  },
+  {
+    "id": "body",
+    "title": "身体部位"
+  },
+  {
+    "id": "animals",
+    "title": "动物"
+  },
+  {
+    "id": "food",
+    "title": "食物与饮料"
+  },
+  {
+    "id": "colors",
+    "title": "颜色与形状"
+  },
+  {
+    "id": "numbers",
+    "title": "数字 1—10"
+  },
+  {
+    "id": "clothes",
+    "title": "衣服"
+  },
+  {
+    "id": "home",
+    "title": "家居与日常用品"
+  },
+  {
+    "id": "school",
+    "title": "学校用品"
+  },
+  {
+    "id": "transport",
+    "title": "交通工具"
+  },
+  {
+    "id": "nature",
+    "title": "天气与自然"
+  },
+  {
+    "id": "actions",
+    "title": "日常动作"
+  },
+  {
+    "id": "feelings",
+    "title": "问候与情绪"
+  }
+]

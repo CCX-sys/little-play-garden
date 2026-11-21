@@ -1,0 +1,158 @@
+[
+  {
+    "letter": "A",
+    "lowercase": "a",
+    "audio": "/assets/english/audio/letters/a.mp3",
+    "exampleWordId": "apple"
+  },
+  {
+    "letter": "B",
+    "lowercase": "b",
+    "audio": "/assets/english/audio/letters/b.mp3",
+    "exampleWordId": "banana"
+  },
+  {
+    "letter": "C",
+    "lowercase": "c",
+    "audio": "/assets/english/audio/letters/c.mp3",
+    "exampleWordId": "cat"
+  },
+  {
+    "letter": "D",
+    "lowercase": "d",
+    "audio": "/assets/english/audio/letters/d.mp3",
+    "exampleWordId": "dog"
+  },
+  {
+    "letter": "E",
+    "lowercase": "e",
+    "audio": "/assets/english/audio/letters/e.mp3",
+    "exampleWordId": "egg"
+  },
+  {
+    "letter": "F",
+    "lowercase": "f",
+    "audio": "/assets/english/audio/letters/f.mp3",
+    "exampleWordId": "fish"
+  },
+  {
+    "letter": "G",
+    "lowercase": "g",
+    "audio": "/assets/english/audio/letters/g.mp3",
+    "exampleWordId": "grapes"
+  },
+  {
+    "letter": "H",
+    "lowercase": "h",
+    "audio": "/assets/english/audio/letters/h.mp3",
+    "exampleWordId": "hat"
+  },
+  {
+    "letter": "I",
+    "lowercase": "i",
+    "audio": "/assets/english/audio/letters/i.mp3",
+    "exampleWordId": "ice-cream"
+  },
+  {
+    "letter": "J",
+    "lowercase": "j",
+    "audio": "/assets/english/audio/letters/j.mp3",
+    "exampleWordId": "juice"
+  },
+  {
+    "letter": "K",
+    "lowercase": "k",
+    "audio": "/assets/english/audio/letters/k.mp3",
+    "exampleWordId": "key"
+  },
+  {
+    "letter": "L",
+    "lowercase": "l",
+    "audio": "/assets/english/audio/letters/l.mp3",
+    "exampleWordId": "lion"
+  },
+  {
+    "letter": "M",
+    "lowercase": "m",
+    "audio": "/assets/english/audio/letters/m.mp3",
+    "exampleWordId": "moon"
+  },
+  {
+    "letter": "N",
+    "lowercase": "n",
+    "audio": "/assets/english/audio/letters/n.mp3",
+    "exampleWordId": "nose"
+  },
+  {
+    "letter": "O",
+    "lowercase": "o",
+    "audio": "/assets/english/audio/letters/o.mp3",
+    "exampleWordId": "orange"
+  },
+  {
+    "letter": "P",
+    "lowercase": "p",
+    "audio": "/assets/english/audio/letters/p.mp3",
+    "exampleWordId": "pencil"
+  },
+  {
+    "letter": "Q",
+    "lowercase": "q",
+    "audio": "/assets/english/audio/letters/q.mp3",
+    "exampleWordId": "queen"
+  },
+  {
+    "letter": "R",
+    "lowercase": "r",
+    "audio": "/assets/english/audio/letters/r.mp3",
+    "exampleWordId": "rabbit"
+  },
+  {
+    "letter": "S",
+    "lowercase": "s",
+    "audio": "/assets/english/audio/letters/s.mp3",
+    "exampleWordId": "sun"
+  },
+  {
+    "letter": "T",
+    "lowercase": "t",
+    "audio": "/assets/english/audio/letters/t.mp3",
+    "exampleWordId": "turtle"
+  },
+  {
+    "letter": "U",
+    "lowercase": "u",
+    "audio": "/assets/english/audio/letters/u.mp3",
+    "exampleWordId": "umbrella"
+  },
+  {
+    "letter": "V",
+    "lowercase": "v",
+    "audio": "/assets/english/audio/letters/v.mp3",
+    "exampleWordId": "van"
+  },
+  {
+    "letter": "W",
+    "lowercase": "w",
+    "audio": "/assets/english/audio/letters/w.mp3",
+    "exampleWordId": "watermelon"
+  },
+  {
+    "letter": "X",
+    "lowercase": "x",
+    "audio": "/assets/english/audio/letters/x.mp3",
+    "exampleWordId": "xylophone"
+  },
+  {
+    "letter": "Y",
+    "lowercase": "y",
+    "audio": "/assets/english/audio/letters/y.mp3",
+    "exampleWordId": "yellow"
+  },
+  {
+    "letter": "Z",
+    "lowercase": "z",
+    "audio": "/assets/english/audio/letters/z.mp3",
+    "exampleWordId": "zebra"
+  }
+]

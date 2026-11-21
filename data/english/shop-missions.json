@@ -1,0 +1,410 @@
+[
+  {
+    "id": "shop-01",
+    "instruction": "Find an apple.",
+    "translation": "找一个苹果。",
+    "audio": "/assets/english/audio/phrases/shop-01.mp3",
+    "targets": [
+      {
+        "wordId": "apple",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "bread",
+      "lemon",
+      "banana",
+      "milk",
+      "egg"
+    ],
+    "shelf": [
+      "bread",
+      "apple",
+      "lemon",
+      "banana",
+      "milk",
+      "egg"
+    ]
+  },
+  {
+    "id": "shop-02",
+    "instruction": "Find two apples.",
+    "translation": "找两个苹果。",
+    "audio": "/assets/english/audio/phrases/shop-02.mp3",
+    "targets": [
+      {
+        "wordId": "apple",
+        "quantity": 2
+      }
+    ],
+    "distractors": [
+      "banana",
+      "pear",
+      "milk",
+      "orange",
+      "bread"
+    ],
+    "shelf": [
+      "banana",
+      "pear",
+      "milk",
+      "orange",
+      "apple",
+      "bread"
+    ]
+  },
+  {
+    "id": "shop-03",
+    "instruction": "Find a banana.",
+    "translation": "找一根香蕉。",
+    "audio": "/assets/english/audio/phrases/shop-03.mp3",
+    "targets": [
+      {
+        "wordId": "banana",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "egg",
+      "strawberry",
+      "bread",
+      "lemon",
+      "apple"
+    ],
+    "shelf": [
+      "egg",
+      "strawberry",
+      "bread",
+      "banana",
+      "lemon",
+      "apple"
+    ]
+  },
+  {
+    "id": "shop-04",
+    "instruction": "Find two bananas.",
+    "translation": "找两根香蕉。",
+    "audio": "/assets/english/audio/phrases/shop-04.mp3",
+    "targets": [
+      {
+        "wordId": "banana",
+        "quantity": 2
+      }
+    ],
+    "distractors": [
+      "watermelon",
+      "grapes",
+      "carrot",
+      "milk",
+      "rice"
+    ],
+    "shelf": [
+      "banana",
+      "watermelon",
+      "grapes",
+      "carrot",
+      "milk",
+      "rice"
+    ]
+  },
+  {
+    "id": "shop-05",
+    "instruction": "Find an orange.",
+    "translation": "找一个橙子。",
+    "audio": "/assets/english/audio/phrases/shop-05.mp3",
+    "targets": [
+      {
+        "wordId": "orange",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "carrot",
+      "cheese",
+      "juice",
+      "rice",
+      "apple"
+    ],
+    "shelf": [
+      "carrot",
+      "cheese",
+      "juice",
+      "rice",
+      "apple",
+      "orange"
+    ]
+  },
+  {
+    "id": "shop-06",
+    "instruction": "Find three oranges.",
+    "translation": "找三个橙子。",
+    "audio": "/assets/english/audio/phrases/shop-06.mp3",
+    "targets": [
+      {
+        "wordId": "orange",
+        "quantity": 3
+      }
+    ],
+    "distractors": [
+      "bread",
+      "strawberry",
+      "milk",
+      "pear",
+      "corn"
+    ],
+    "shelf": [
+      "bread",
+      "orange",
+      "strawberry",
+      "milk",
+      "pear",
+      "corn"
+    ]
+  },
+  {
+    "id": "shop-07",
+    "instruction": "Find some bread.",
+    "translation": "找一些面包。",
+    "audio": "/assets/english/audio/phrases/shop-07.mp3",
+    "targets": [
+      {
+        "wordId": "bread",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "rice",
+      "carrot",
+      "milk",
+      "egg",
+      "cheese"
+    ],
+    "shelf": [
+      "rice",
+      "carrot",
+      "milk",
+      "egg",
+      "bread",
+      "cheese"
+    ]
+  },
+  {
+    "id": "shop-08",
+    "instruction": "Find an egg.",
+    "translation": "找一个鸡蛋。",
+    "audio": "/assets/english/audio/phrases/shop-08.mp3",
+    "targets": [
+      {
+        "wordId": "egg",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "rice",
+      "milk",
+      "pear",
+      "lemon",
+      "orange"
+    ],
+    "shelf": [
+      "rice",
+      "milk",
+      "egg",
+      "pear",
+      "lemon",
+      "orange"
+    ]
+  },
+  {
+    "id": "shop-09",
+    "instruction": "Find two eggs.",
+    "translation": "找两个鸡蛋。",
+    "audio": "/assets/english/audio/phrases/shop-09.mp3",
+    "targets": [
+      {
+        "wordId": "egg",
+        "quantity": 2
+      }
+    ],
+    "distractors": [
+      "cheese",
+      "pear",
+      "corn",
+      "apple",
+      "bread"
+    ],
+    "shelf": [
+      "egg",
+      "cheese",
+      "pear",
+      "corn",
+      "apple",
+      "bread"
+    ]
+  },
+  {
+    "id": "shop-10",
+    "instruction": "Find a bottle of milk.",
+    "translation": "找一瓶牛奶。",
+    "audio": "/assets/english/audio/phrases/shop-10.mp3",
+    "targets": [
+      {
+        "wordId": "milk",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "banana",
+      "bread",
+      "water",
+      "egg",
+      "juice"
+    ],
+    "shelf": [
+      "banana",
+      "bread",
+      "water",
+      "egg",
+      "milk",
+      "juice"
+    ]
+  },
+  {
+    "id": "shop-11",
+    "instruction": "Find some water.",
+    "translation": "找一些水。",
+    "audio": "/assets/english/audio/phrases/shop-11.mp3",
+    "targets": [
+      {
+        "wordId": "water",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "milk",
+      "juice",
+      "pear",
+      "lemon",
+      "rice"
+    ],
+    "shelf": [
+      "milk",
+      "juice",
+      "pear",
+      "water",
+      "lemon",
+      "rice"
+    ]
+  },
+  {
+    "id": "shop-12",
+    "instruction": "Put the apples in the basket.",
+    "translation": "把苹果放进篮子里。",
+    "audio": "/assets/english/audio/phrases/shop-12.mp3",
+    "targets": [
+      {
+        "wordId": "apple",
+        "quantity": 2
+      }
+    ],
+    "distractors": [
+      "orange",
+      "watermelon",
+      "banana",
+      "lemon",
+      "grapes"
+    ],
+    "shelf": [
+      "orange",
+      "watermelon",
+      "apple",
+      "banana",
+      "lemon",
+      "grapes"
+    ]
+  },
+  {
+    "id": "shop-13",
+    "instruction": "Can I have some milk?",
+    "translation": "可以给我一些牛奶吗？",
+    "audio": "/assets/english/audio/phrases/shop-13.mp3",
+    "targets": [
+      {
+        "wordId": "milk",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "egg",
+      "water",
+      "cheese",
+      "bread",
+      "apple"
+    ],
+    "shelf": [
+      "egg",
+      "water",
+      "cheese",
+      "bread",
+      "apple",
+      "milk"
+    ]
+  },
+  {
+    "id": "shop-14",
+    "instruction": "Please give me the bread.",
+    "translation": "请把面包递给我。",
+    "audio": "/assets/english/audio/phrases/shop-14.mp3",
+    "targets": [
+      {
+        "wordId": "bread",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "milk",
+      "rice",
+      "corn",
+      "cheese",
+      "orange"
+    ],
+    "shelf": [
+      "bread",
+      "milk",
+      "rice",
+      "corn",
+      "cheese",
+      "orange"
+    ]
+  },
+  {
+    "id": "shop-15",
+    "instruction": "Find one apple and one banana.",
+    "translation": "找一个苹果和一根香蕉。",
+    "audio": "/assets/english/audio/phrases/shop-15.mp3",
+    "targets": [
+      {
+        "wordId": "apple",
+        "quantity": 1
+      },
+      {
+        "wordId": "banana",
+        "quantity": 1
+      }
+    ],
+    "distractors": [
+      "pear",
+      "carrot",
+      "egg",
+      "rice"
+    ],
+    "shelf": [
+      "pear",
+      "banana",
+      "carrot",
+      "egg",
+      "apple",
+      "rice"
+    ]
+  }
+]

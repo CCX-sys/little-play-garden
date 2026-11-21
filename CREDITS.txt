@@ -1,0 +1,6 @@
+Parts of the English vocabulary illustrations are adapted from Twemoji v14.0.2.
+Copyright 2019 Twitter, Inc and other contributors.
+Source: https://github.com/twitter/twemoji/tree/v14.0.2
+Graphics license: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/
+The game adapts size, composition, backgrounds and colors. See LICENSE.twemoji.txt.
+English audio uses the en_US LJSpeech medium Piper voice trained by Bryce Beattie on the public-domain LJ Speech Dataset. The word hat is excerpted from recording LJ018-0019 by Linda Johnson, https://keithito.com/LJ-Speech-Dataset/.

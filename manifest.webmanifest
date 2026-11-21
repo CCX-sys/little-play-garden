@@ -3,7 +3,7 @@
   "name": "小小探险岛",
   "short_name": "小小探险岛",
   "lang": "zh-CN",
-  "description": "舒尔特方格和 60 关找不同",
+  "description": "舒尔特方格、60 关找不同，以及带本地发音的英语乐园。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

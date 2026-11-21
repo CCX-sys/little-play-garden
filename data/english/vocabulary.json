@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "mom",
+    "word": "mom",
+    "translation": "妈妈",
+    "category": "family",
+    "initial": "M",
+    "image": "/assets/english/words/mom.webp",
+    "audio": "/assets/english/audio/words/mom.mp3"
+  },
+  {
+    "id": "dad",
+    "word": "dad",
+    "translation": "爸爸",
+    "category": "family",
+    "initial": "D",
+    "image": "/assets/english/words/dad.webp",
+    "audio": "/assets/english/audio/words/dad.mp3"
+  },
+  {
+    "id": "baby",
+    "word": "baby",
+    "translation": "宝宝",
+    "category": "family",
+    "initial": "B",
+    "image": "/assets/english/words/baby.webp",
+    "audio": "/assets/english/audio/words/baby.mp3"
+  },
+  {
+    "id": "grandma",
+    "word": "grandma",
+    "translation": "奶奶或外婆",
+    "category": "family",
+    "initial": "G",
+    "image": "/assets/english/words/grandma.webp",
+    "audio": "/assets/english/audio/words/grandma.mp3"
+  },
+  {
+    "id": "grandpa",
+    "word": "grandpa",
+    "translation": "爷爷或外公",
+    "category": "family",
+    "initial": "G",
+    "image": "/assets/english/words/grandpa.webp",
+    "audio": "/assets/english/audio/words/grandpa.mp3"
+  },
+  {
+    "id": "boy",
+    "word": "boy",
+    "translation": "男孩",
+    "category": "family",
+    "initial": "B",
+    "image": "/assets/english/words/boy.webp",
+    "audio": "/assets/english/audio/words/boy.mp3"
+  },
+  {
+    "id": "girl",
+    "word": "girl",
+    "translation": "女孩",
+    "category": "family",
+    "initial": "G",
+    "image": "/assets/english/words/girl.webp",
+    "audio": "/assets/english/audio/words/girl.mp3"
+  },
+  {
+    "id": "queen",
+    "word": "queen",
+    "translation": "女王",
+    "category": "family",
+    "initial": "Q",
+    "image": "/assets/english/words/queen.webp",
+    "audio": "/assets/english/audio/words/queen.mp3"
+  },
+  {
+    "id": "eye",
+    "word": "eye",
+    "translation": "眼睛",
+    "category": "body",
+    "initial": "E",
+    "image": "/assets/english/words/eye.webp",
+    "audio": "/assets/english/audio/words/eye.mp3"
+  },
+  {
+    "id": "ear",
+    "word": "ear",
+    "translation": "耳朵",
+    "category": "body",
+    "initial": "E",
+    "image": "/assets/english/words/ear.webp",
+    "audio": "/assets/english/audio/words/ear.mp3"
+  },
+  {
+    "id": "nose",
+    "word": "nose",
+    "translation": "鼻子",
+    "category": "body",
+    "initial": "N",
+    "image": "/assets/english/words/nose.webp",
+    "audio": "/assets/english/audio/words/nose.mp3"
+  },
+  {
+    "id": "mouth",
+    "word": "mouth",
+    "translation": "嘴巴",
+    "category": "body",
+    "initial": "M",
+    "image": "/assets/english/words/mouth.webp",
+    "audio": "/assets/english/audio/words/mouth.mp3"
+  },
+  {
+    "id": "hand",
+    "word": "hand",
+    "translation": "手",
+    "category": "body",
+    "initial": "H",
+    "image": "/assets/english/words/hand.webp",
+    "audio": "/assets/english/audio/words/hand.mp3"
+  },
+  {
+    "id": "foot",
+    "word": "foot",
+    "translation": "脚",
+    "category": "body",
+    "initial": "F",
+    "image": "/assets/english/words/foot.webp",
+    "audio": "/assets/english/audio/words/foot.mp3"
+  },
+  {
+    "id": "tooth",
+    "word": "tooth",
+    "translation": "牙齿",
+    "category": "body",
+    "initial": "T",
+    "image": "/assets/english/words/tooth.webp",
+    "audio": "/assets/english/audio/words/tooth.mp3"
+  },
+  {
+    "id": "tongue",
+    "word": "tongue",
+    "translation": "舌头",
+    "category": "body",
+    "initial": "T",
+    "image": "/assets/english/words/tongue.webp",
+    "audio": "/assets/english/audio/words/tongue.mp3"
+  },
+  {
+    "id": "cat",
+    "word": "cat",
+    "translation": "猫",
+    "category": "animals",
+    "initial": "C",
+    "image": "/assets/english/words/cat.webp",
+    "audio": "/assets/english/audio/words/cat.mp3"
+  },
+  {
+    "id": "dog",
+    "word": "dog",
+    "translation": "狗",
+    "category": "animals",
+    "initial": "D",
+    "image": "/assets/english/words/dog.webp",
+    "audio": "/assets/english/audio/words/dog.mp3"
+  },
+  {
+    "id": "rabbit",
+    "word": "rabbit",
+    "translation": "兔子",
+    "category": "animals",
+    "initial": "R",
+    "image": "/assets/english/words/rabbit.webp",
+    "audio": "/assets/english/audio/words/rabbit.mp3"
+  },
+  {
+    "id": "fish",
+    "word": "fish",
+    "translation": "鱼",
+    "category": "animals",
+    "initial": "F",
+    "image": "/assets/english/words/fish.webp",
+    "audio": "/assets/english/audio/words/fish.mp3"
+  },
+  {
+    "id": "frog",
+    "word": "frog",
+    "translation": "青蛙",
+    "category": "animals",
+    "initial": "F",
+    "image": "/assets/english/words/frog.webp",
+    "audio": "/assets/english/audio/words/frog.mp3"
+  },
+  {
+    "id": "turtle",
+    "word": "turtle",
+    "translation": "乌龟",
+    "category": "animals",
+    "initial": "T",
+    "image": "/assets/english/words/turtle.webp",
+    "audio": "/assets/english/audio/words/turtle.mp3"
+  },
+  {
+    "id": "lion",
+    "word": "lion",
+    "translation": "狮子",
+    "category": "animals",
+    "initial": "L",
+    "image": "/assets/english/words/lion.webp",
+    "audio": "/assets/english/audio/words/lion.mp3"
+  },
+  {
+    "id": "tiger",
+    "word": "tiger",
+    "translation": "老虎",
+    "category": "animals",
+    "initial": "T",
+    "image": "/assets/english/words/tiger.webp",
+    "audio": "/assets/english/audio/words/tiger.mp3"
+  },
+  {
+    "id": "bear",
+    "word": "bear",
+    "translation": "熊",
+    "category": "animals",
+    "initial": "B",
+    "image": "/assets/english/words/bear.webp",
+    "audio": "/assets/english/audio/words/bear.mp3"
+  },
+  {
+    "id": "monkey",
+    "word": "monkey",
+    "translation": "猴子",
+    "category": "animals",
+    "initial": "M",
+    "image": "/assets/english/words/monkey.webp",
+    "audio": "/assets/english/audio/words/monkey.mp3"
+  },
+  {
+    "id": "elephant",
+    "word": "elephant",
+    "translation": "大象",
+    "category": "animals",
+    "initial": "E",
+    "image": "/assets/english/words/elephant.webp",
+    "audio": "/assets/english/audio/words/elephant.mp3"
+  },
+  {
+    "id": "giraffe",
+    "word": "giraffe",
+    "translation": "长颈鹿",
+    "category": "animals",
+    "initial": "G",
+    "image": "/assets/english/words/giraffe.webp",
+    "audio": "/assets/english/audio/words/giraffe.mp3"
+  },
+  {
+    "id": "zebra",
+    "word": "zebra",
+    "translation": "斑马",
+    "category": "animals",
+    "initial": "Z",
+    "image": "/assets/english/words/zebra.webp",
+    "audio": "/assets/english/audio/words/zebra.mp3"
+  },
+  {
+    "id": "bird",
+    "word": "bird",
+    "translation": "小鸟",
+    "category": "animals",
+    "initial": "B",
+    "image": "/assets/english/words/bird.webp",
+    "audio": "/assets/english/audio/words/bird.mp3"
+  },
+  {
+    "id": "apple",
+    "word": "apple",
+    "translation": "苹果",
+    "category": "food",
+    "initial": "A",
+    "image": "/assets/english/words/apple.webp",
+    "audio": "/assets/english/audio/words/apple.mp3"
+  },
+  {
+    "id": "banana",
+    "word": "banana",
+    "translation": "香蕉",
+    "category": "food",
+    "initial": "B",
+    "image": "/assets/english/words/banana.webp",
+    "audio": "/assets/english/audio/words/banana.mp3"
+  },
+  {
+    "id": "orange",
+    "word": "orange",
+    "translation": "橙子",
+    "category": "food",
+    "initial": "O",
+    "image": "/assets/english/words/orange.webp",
+    "audio": "/assets/english/audio/words/orange.mp3"
+  },
+  {
+    "id": "bread",
+    "word": "bread",
+    "translation": "面包",
+    "category": "food",
+    "initial": "B",
+    "image": "/assets/english/words/bread.webp",
+    "audio": "/assets/english/audio/words/bread.mp3"
+  },
+  {
+    "id": "egg",
+    "word": "egg",
+    "translation": "鸡蛋",
+    "category": "food",
+    "initial": "E",
+    "image": "/assets/english/words/egg.webp",
+    "audio": "/assets/english/audio/words/egg.mp3"
+  },
+  {
+    "id": "milk",
+    "word": "milk",
+    "translation": "牛奶",
+    "category": "food",
+    "initial": "M",
+    "image": "/assets/english/words/milk.webp",
+    "audio": "/assets/english/audio/words/milk.mp3"
+  },
+  {
+    "id": "water",
+    "word": "water",
+    "translation": "水",
+    "category": "food",
+    "initial": "W",
+    "image": "/assets/english/words/water.webp",
+    "audio": "/assets/english/audio/words/water.mp3"
+  },
+  {
+    "id": "cheese",
+    "word": "cheese",
+    "translation": "奶酪",
+    "category": "food",
+    "initial": "C",
+    "image": "/assets/english/words/cheese.webp",
+    "audio": "/assets/english/audio/words/cheese.mp3"
+  },
+  {
+    "id": "carrot",
+    "word": "carrot",
+    "translation": "胡萝卜",
+    "category": "food",
+    "initial": "C",
+    "image": "/assets/english/words/carrot.webp",
+    "audio": "/assets/english/audio/words/carrot.mp3"
+  },
+  {
+    "id": "grapes",
+    "word": "grapes",
+    "translation": "葡萄",
+    "category": "food",
+    "initial": "G",
+    "image": "/assets/english/words/grapes.webp",
+    "audio": "/assets/english/audio/words/grapes.mp3"
+  },
+  {
+    "id": "pear",
+    "word": "pear",
+    "translation": "梨",
+    "category": "food",
+    "initial": "P",
+    "image": "/assets/english/words/pear.webp",
+    "audio": "/assets/english/audio/words/pear.mp3"
+  },
+  {
+    "id": "lemon",
+    "word": "lemon",
+    "translation": "柠檬",
+    "category": "food",
+    "initial": "L",
+    "image": "/assets/english/words/lemon.webp",
+    "audio": "/assets/english/audio/words/lemon.mp3"
+  },
+  {
+    "id": "strawberry",
+    "word": "strawberry",
+    "translation": "草莓",
+    "category": "food",
+    "initial": "S",
+    "image": "/assets/english/words/strawberry.webp",
+    "audio": "/assets/english/audio/words/strawberry.mp3"
+  },
+  {
+    "id": "rice",
+    "word": "rice",
+    "translation": "米饭",
+    "category": "food",
+    "initial": "R",
+    "image": "/assets/english/words/rice.webp",
+    "audio": "/assets/english/audio/words/rice.mp3"
+  },
+  {
+    "id": "juice",
+    "word": "juice",
+    "translation": "果汁",
+    "category": "food",
+    "initial": "J",
+    "image": "/assets/english/words/juice.webp",
+    "audio": "/assets/english/audio/words/juice.mp3"
+  },
+  {
+    "id": "corn",
+    "word": "corn",
+    "translation": "玉米",
+    "category": "food",
+    "initial": "C",
+    "image": "/assets/english/words/corn.webp",
+    "audio": "/assets/english/audio/words/corn.mp3"
+  },
+  {
+    "id": "ice-cream",
+    "word": "ice cream",
+    "translation": "冰淇淋",
+    "category": "food",
+    "initial": "I",
+    "image": "/assets/english/words/ice-cream.webp",
+    "audio": "/assets/english/audio/words/ice-cream.mp3"
+  },
+  {
+    "id": "watermelon",
+    "word": "watermelon",
+    "translation": "西瓜",
+    "category": "food",
+    "initial": "W",
+    "image": "/assets/english/words/watermelon.webp",
+    "audio": "/assets/english/audio/words/watermelon.mp3"
+  },
+  {
+    "id": "red",
+    "word": "red",
+    "translation": "红色",
+    "category": "colors",
+    "initial": "R",
+    "image": "/assets/english/words/red.webp",
+    "audio": "/assets/english/audio/words/red.mp3"
+  },
+  {
+    "id": "blue",
+    "word": "blue",
+    "translation": "蓝色",
+    "category": "colors",
+    "initial": "B",
+    "image": "/assets/english/words/blue.webp",
+    "audio": "/assets/english/audio/words/blue.mp3"
+  },
+  {
+    "id": "yellow",
+    "word": "yellow",
+    "translation": "黄色",
+    "category": "colors",
+    "initial": "Y",
+    "image": "/assets/english/words/yellow.webp",
+    "audio": "/assets/english/audio/words/yellow.mp3"
+  },
+  {
+    "id": "green",
+    "word": "green",
+    "translation": "绿色",
+    "category": "colors",
+    "initial": "G",
+    "image": "/assets/english/words/green.webp",
+    "audio": "/assets/english/audio/words/green.mp3"
+  },
+  {
+    "id": "circle",
+    "word": "circle",
+    "translation": "圆形",
+    "category": "colors",
+    "initial": "C",
+    "image": "/assets/english/words/circle.webp",
+    "audio": "/assets/english/audio/words/circle.mp3"
+  },
+  {
+    "id": "square",
+    "word": "square",
+    "translation": "正方形",
+    "category": "colors",
+    "initial": "S",
+    "image": "/assets/english/words/square.webp",
+    "audio": "/assets/english/audio/words/square.mp3"
+  },
+  {
+    "id": "triangle",
+    "word": "triangle",
+    "translation": "三角形",
+    "category": "colors",
+    "initial": "T",
+    "image": "/assets/english/words/triangle.webp",
+    "audio": "/assets/english/audio/words/triangle.mp3"
+  },
+  {
+    "id": "star",
+    "word": "star",
+    "translation": "星形",
+    "category": "colors",
+    "initial": "S",
+    "image": "/assets/english/words/star.webp",
+    "audio": "/assets/english/audio/words/star.mp3"
+  },
+  {
+    "id": "one",
+    "word": "one",
+    "translation": "一",
+    "category": "numbers",
+    "initial": "O",
+    "image": "/assets/english/words/one.webp",
+    "audio": "/assets/english/audio/words/one.mp3"
+  },
+  {
+    "id": "two",
+    "word": "two",
+    "translation": "二",
+    "category": "numbers",
+    "initial": "T",
+    "image": "/assets/english/words/two.webp",
+    "audio": "/assets/english/audio/words/two.mp3"
+  },
+  {
+    "id": "three",
+    "word": "three",
+    "translation": "三",
+    "category": "numbers",
+    "initial": "T",
+    "image": "/assets/english/words/three.webp",
+    "audio": "/assets/english/audio/words/three.mp3"
+  },
+  {
+    "id": "four",
+    "word": "four",
+    "translation": "四",
+    "category": "numbers",
+    "initial": "F",
+    "image": "/assets/english/words/four.webp",
+    "audio": "/assets/english/audio/words/four.mp3"
+  },
+  {
+    "id": "five",
+    "word": "five",
+    "translation": "五",
+    "category": "numbers",
+    "initial": "F",
+    "image": "/assets/english/words/five.webp",
+    "audio": "/assets/english/audio/words/five.mp3"
+  },
+  {
+    "id": "six",
+    "word": "six",
+    "translation": "六",
+    "category": "numbers",
+    "initial": "S",
+    "image": "/assets/english/words/six.webp",
+    "audio": "/assets/english/audio/words/six.mp3"
+  },
+  {
+    "id": "seven",
+    "word": "seven",
+    "translation": "七",
+    "category": "numbers",
+    "initial": "S",
+    "image": "/assets/english/words/seven.webp",
+    "audio": "/assets/english/audio/words/seven.mp3"
+  },
+  {
+    "id": "eight",
+    "word": "eight",
+    "translation": "八",
+    "category": "numbers",
+    "initial": "E",
+    "image": "/assets/english/words/eight.webp",
+    "audio": "/assets/english/audio/words/eight.mp3"
+  },
+  {
+    "id": "nine",
+    "word": "nine",
+    "translation": "九",
+    "category": "numbers",
+    "initial": "N",
+    "image": "/assets/english/words/nine.webp",
+    "audio": "/assets/english/audio/words/nine.mp3"
+  },
+  {
+    "id": "ten",
+    "word": "ten",
+    "translation": "十",
+    "category": "numbers",
+    "initial": "T",
+    "image": "/assets/english/words/ten.webp",
+    "audio": "/assets/english/audio/words/ten.mp3"
+  },
+  {
+    "id": "hat",
+    "word": "hat",
+    "translation": "帽子",
+    "category": "clothes",
+    "initial": "H",
+    "image": "/assets/english/words/hat.webp",
+    "audio": "/assets/english/audio/words/hat.mp3"
+  },
+  {
+    "id": "coat",
+    "word": "coat",
+    "translation": "外套",
+    "category": "clothes",
+    "initial": "C",
+    "image": "/assets/english/words/coat.webp",
+    "audio": "/assets/english/audio/words/coat.mp3"
+  },
+  {
+    "id": "shoes",
+    "word": "shoes",
+    "translation": "鞋子",
+    "category": "clothes",
+    "initial": "S",
+    "image": "/assets/english/words/shoes.webp",
+    "audio": "/assets/english/audio/words/shoes.mp3"
+  },
+  {
+    "id": "socks",
+    "word": "socks",
+    "translation": "袜子",
+    "category": "clothes",
+    "initial": "S",
+    "image": "/assets/english/words/socks.webp",
+    "audio": "/assets/english/audio/words/socks.mp3"
+  },
+  {
+    "id": "pants",
+    "word": "pants",
+    "translation": "裤子",
+    "category": "clothes",
+    "initial": "P",
+    "image": "/assets/english/words/pants.webp",
+    "audio": "/assets/english/audio/words/pants.mp3"
+  },
+  {
+    "id": "dress",
+    "word": "dress",
+    "translation": "连衣裙",
+    "category": "clothes",
+    "initial": "D",
+    "image": "/assets/english/words/dress.webp",
+    "audio": "/assets/english/audio/words/dress.mp3"
+  },
+  {
+    "id": "scarf",
+    "word": "scarf",
+    "translation": "围巾",
+    "category": "clothes",
+    "initial": "S",
+    "image": "/assets/english/words/scarf.webp",
+    "audio": "/assets/english/audio/words/scarf.mp3"
+  },
+  {
+    "id": "gloves",
+    "word": "gloves",
+    "translation": "手套",
+    "category": "clothes",
+    "initial": "G",
+    "image": "/assets/english/words/gloves.webp",
+    "audio": "/assets/english/audio/words/gloves.mp3"
+  },
+  {
+    "id": "bed",
+    "word": "bed",
+    "translation": "床",
+    "category": "home",
+    "initial": "B",
+    "image": "/assets/english/words/bed.webp",
+    "audio": "/assets/english/audio/words/bed.mp3"
+  },
+  {
+    "id": "chair",
+    "word": "chair",
+    "translation": "椅子",
+    "category": "home",
+    "initial": "C",
+    "image": "/assets/english/words/chair.webp",
+    "audio": "/assets/english/audio/words/chair.mp3"
+  },
+  {
+    "id": "lamp",
+    "word": "lamp",
+    "translation": "灯",
+    "category": "home",
+    "initial": "L",
+    "image": "/assets/english/words/lamp.webp",
+    "audio": "/assets/english/audio/words/lamp.mp3"
+  },
+  {
+    "id": "clock",
+    "word": "clock",
+    "translation": "钟",
+    "category": "home",
+    "initial": "C",
+    "image": "/assets/english/words/clock.webp",
+    "audio": "/assets/english/audio/words/clock.mp3"
+  },
+  {
+    "id": "key",
+    "word": "key",
+    "translation": "钥匙",
+    "category": "home",
+    "initial": "K",
+    "image": "/assets/english/words/key.webp",
+    "audio": "/assets/english/audio/words/key.mp3"
+  },
+  {
+    "id": "cup",
+    "word": "cup",
+    "translation": "杯子",
+    "category": "home",
+    "initial": "C",
+    "image": "/assets/english/words/cup.webp",
+    "audio": "/assets/english/audio/words/cup.mp3"
+  },
+  {
+    "id": "umbrella",
+    "word": "umbrella",
+    "translation": "雨伞",
+    "category": "home",
+    "initial": "U",
+    "image": "/assets/english/words/umbrella.webp",
+    "audio": "/assets/english/audio/words/umbrella.mp3"
+  },
+  {
+    "id": "door",
+    "word": "door",
+    "translation": "门",
+    "category": "home",
+    "initial": "D",
+    "image": "/assets/english/words/door.webp",
+    "audio": "/assets/english/audio/words/door.mp3"
+  },
+  {
+    "id": "book",
+    "word": "book",
+    "translation": "书",
+    "category": "school",
+    "initial": "B",
+    "image": "/assets/english/words/book.webp",
+    "audio": "/assets/english/audio/words/book.mp3"
+  },
+  {
+    "id": "pencil",
+    "word": "pencil",
+    "translation": "铅笔",
+    "category": "school",
+    "initial": "P",
+    "image": "/assets/english/words/pencil.webp",
+    "audio": "/assets/english/audio/words/pencil.mp3"
+  },
+  {
+    "id": "ruler",
+    "word": "ruler",
+    "translation": "尺子",
+    "category": "school",
+    "initial": "R",
+    "image": "/assets/english/words/ruler.webp",
+    "audio": "/assets/english/audio/words/ruler.mp3"
+  },
+  {
+    "id": "scissors",
+    "word": "scissors",
+    "translation": "剪刀",
+    "category": "school",
+    "initial": "S",
+    "image": "/assets/english/words/scissors.webp",
+    "audio": "/assets/english/audio/words/scissors.mp3"
+  },
+  {
+    "id": "backpack",
+    "word": "backpack",
+    "translation": "书包",
+    "category": "school",
+    "initial": "B",
+    "image": "/assets/english/words/backpack.webp",
+    "audio": "/assets/english/audio/words/backpack.mp3"
+  },
+  {
+    "id": "xylophone",
+    "word": "xylophone",
+    "translation": "木琴",
+    "category": "school",
+    "initial": "X",
+    "image": "/assets/english/words/xylophone.webp",
+    "audio": "/assets/english/audio/words/xylophone.mp3"
+  },
+  {
+    "id": "car",
+    "word": "car",
+    "translation": "小汽车",
+    "category": "transport",
+    "initial": "C",
+    "image": "/assets/english/words/car.webp",
+    "audio": "/assets/english/audio/words/car.mp3"
+  },
+  {
+    "id": "bus",
+    "word": "bus",
+    "translation": "公共汽车",
+    "category": "transport",
+    "initial": "B",
+    "image": "/assets/english/words/bus.webp",
+    "audio": "/assets/english/audio/words/bus.mp3"
+  },
+  {
+    "id": "train",
+    "word": "train",
+    "translation": "火车",
+    "category": "transport",
+    "initial": "T",
+    "image": "/assets/english/words/train.webp",
+    "audio": "/assets/english/audio/words/train.mp3"
+  },
+  {
+    "id": "boat",
+    "word": "boat",
+    "translation": "小船",
+    "category": "transport",
+    "initial": "B",
+    "image": "/assets/english/words/boat.webp",
+    "audio": "/assets/english/audio/words/boat.mp3"
+  },
+  {
+    "id": "plane",
+    "word": "plane",
+    "translation": "飞机",
+    "category": "transport",
+    "initial": "P",
+    "image": "/assets/english/words/plane.webp",
+    "audio": "/assets/english/audio/words/plane.mp3"
+  },
+  {
+    "id": "van",
+    "word": "van",
+    "translation": "厢式车",
+    "category": "transport",
+    "initial": "V",
+    "image": "/assets/english/words/van.webp",
+    "audio": "/assets/english/audio/words/van.mp3"
+  },
+  {
+    "id": "sun",
+    "word": "sun",
+    "translation": "太阳",
+    "category": "nature",
+    "initial": "S",
+    "image": "/assets/english/words/sun.webp",
+    "audio": "/assets/english/audio/words/sun.mp3"
+  },
+  {
+    "id": "moon",
+    "word": "moon",
+    "translation": "月亮",
+    "category": "nature",
+    "initial": "M",
+    "image": "/assets/english/words/moon.webp",
+    "audio": "/assets/english/audio/words/moon.mp3"
+  },
+  {
+    "id": "cloud",
+    "word": "cloud",
+    "translation": "云",
+    "category": "nature",
+    "initial": "C",
+    "image": "/assets/english/words/cloud.webp",
+    "audio": "/assets/english/audio/words/cloud.mp3"
+  },
+  {
+    "id": "rain",
+    "word": "rain",
+    "translation": "雨",
+    "category": "nature",
+    "initial": "R",
+    "image": "/assets/english/words/rain.webp",
+    "audio": "/assets/english/audio/words/rain.mp3"
+  },
+  {
+    "id": "snow",
+    "word": "snow",
+    "translation": "雪",
+    "category": "nature",
+    "initial": "S",
+    "image": "/assets/english/words/snow.webp",
+    "audio": "/assets/english/audio/words/snow.mp3"
+  },
+  {
+    "id": "rainbow",
+    "word": "rainbow",
+    "translation": "彩虹",
+    "category": "nature",
+    "initial": "R",
+    "image": "/assets/english/words/rainbow.webp",
+    "audio": "/assets/english/audio/words/rainbow.mp3"
+  },
+  {
+    "id": "tree",
+    "word": "tree",
+    "translation": "树",
+    "category": "nature",
+    "initial": "T",
+    "image": "/assets/english/words/tree.webp",
+    "audio": "/assets/english/audio/words/tree.mp3"
+  },
+  {
+    "id": "flower",
+    "word": "flower",
+    "translation": "花",
+    "category": "nature",
+    "initial": "F",
+    "image": "/assets/english/words/flower.webp",
+    "audio": "/assets/english/audio/words/flower.mp3"
+  },
+  {
+    "id": "run",
+    "word": "run",
+    "translation": "跑步",
+    "category": "actions",
+    "initial": "R",
+    "image": "/assets/english/words/run.webp",
+    "audio": "/assets/english/audio/words/run.mp3"
+  },
+  {
+    "id": "walk",
+    "word": "walk",
+    "translation": "走路",
+    "category": "actions",
+    "initial": "W",
+    "image": "/assets/english/words/walk.webp",
+    "audio": "/assets/english/audio/words/walk.mp3"
+  },
+  {
+    "id": "swim",
+    "word": "swim",
+    "translation": "游泳",
+    "category": "actions",
+    "initial": "S",
+    "image": "/assets/english/words/swim.webp",
+    "audio": "/assets/english/audio/words/swim.mp3"
+  },
+  {
+    "id": "dance",
+    "word": "dance",
+    "translation": "跳舞",
+    "category": "actions",
+    "initial": "D",
+    "image": "/assets/english/words/dance.webp",
+    "audio": "/assets/english/audio/words/dance.mp3"
+  },
+  {
+    "id": "sleep",
+    "word": "sleep",
+    "translation": "睡觉",
+    "category": "actions",
+    "initial": "S",
+    "image": "/assets/english/words/sleep.webp",
+    "audio": "/assets/english/audio/words/sleep.mp3"
+  },
+  {
+    "id": "eat",
+    "word": "eat",
+    "translation": "吃",
+    "category": "actions",
+    "initial": "E",
+    "image": "/assets/english/words/eat.webp",
+    "audio": "/assets/english/audio/words/eat.mp3"
+  },
+  {
+    "id": "drink",
+    "word": "drink",
+    "translation": "喝",
+    "category": "actions",
+    "initial": "D",
+    "image": "/assets/english/words/drink.webp",
+    "audio": "/assets/english/audio/words/drink.mp3"
+  },
+  {
+    "id": "read",
+    "word": "read",
+    "translation": "阅读",
+    "category": "actions",
+    "initial": "R",
+    "image": "/assets/english/words/read.webp",
+    "audio": "/assets/english/audio/words/read.mp3"
+  },
+  {
+    "id": "sing",
+    "word": "sing",
+    "translation": "唱歌",
+    "category": "actions",
+    "initial": "S",
+    "image": "/assets/english/words/sing.webp",
+    "audio": "/assets/english/audio/words/sing.mp3"
+  },
+  {
+    "id": "clap",
+    "word": "clap",
+    "translation": "拍手",
+    "category": "actions",
+    "initial": "C",
+    "image": "/assets/english/words/clap.webp",
+    "audio": "/assets/english/audio/words/clap.mp3"
+  },
+  {
+    "id": "happy",
+    "word": "happy",
+    "translation": "开心的",
+    "category": "feelings",
+    "initial": "H",
+    "image": "/assets/english/words/happy.webp",
+    "audio": "/assets/english/audio/words/happy.mp3"
+  },
+  {
+    "id": "sad",
+    "word": "sad",
+    "translation": "伤心的",
+    "category": "feelings",
+    "initial": "S",
+    "image": "/assets/english/words/sad.webp",
+    "audio": "/assets/english/audio/words/sad.mp3"
+  },
+  {
+    "id": "angry",
+    "word": "angry",
+    "translation": "生气的",
+    "category": "feelings",
+    "initial": "A",
+    "image": "/assets/english/words/angry.webp",
+    "audio": "/assets/english/audio/words/angry.mp3"
+  },
+  {
+    "id": "scared",
+    "word": "scared",
+    "translation": "害怕的",
+    "category": "feelings",
+    "initial": "S",
+    "image": "/assets/english/words/scared.webp",
+    "audio": "/assets/english/audio/words/scared.mp3"
+  },
+  {
+    "id": "surprised",
+    "word": "surprised",
+    "translation": "惊讶的",
+    "category": "feelings",
+    "initial": "S",
+    "image": "/assets/english/words/surprised.webp",
+    "audio": "/assets/english/audio/words/surprised.mp3"
+  },
+  {
+    "id": "tired",
+    "word": "tired",
+    "translation": "累的",
+    "category": "feelings",
+    "initial": "T",
+    "image": "/assets/english/words/tired.webp",
+    "audio": "/assets/english/audio/words/tired.mp3"
+  },
+  {
+    "id": "sick",
+    "word": "sick",
+    "translation": "生病的",
+    "category": "feelings",
+    "initial": "S",
+    "image": "/assets/english/words/sick.webp",
+    "audio": "/assets/english/audio/words/sick.mp3"
+  },
+  {
+    "id": "hello",
+    "word": "hello",
+    "translation": "你好",
+    "category": "feelings",
+    "initial": "H",
+    "image": "/assets/english/words/hello.webp",
+    "audio": "/assets/english/audio/words/hello.mp3"
+  }
+]

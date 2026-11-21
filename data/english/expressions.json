@@ -1,0 +1,82 @@
+[
+  {
+    "id": "phrase-01",
+    "english": "Hello!",
+    "translation": "你好！"
+  },
+  {
+    "id": "phrase-02",
+    "english": "Good morning!",
+    "translation": "早上好！"
+  },
+  {
+    "id": "phrase-03",
+    "english": "Good night!",
+    "translation": "晚安！"
+  },
+  {
+    "id": "phrase-04",
+    "english": "How are you?",
+    "translation": "你好吗？"
+  },
+  {
+    "id": "phrase-05",
+    "english": "I am happy.",
+    "translation": "我很开心。"
+  },
+  {
+    "id": "phrase-06",
+    "english": "Thank you!",
+    "translation": "谢谢你！"
+  },
+  {
+    "id": "phrase-07",
+    "english": "You're welcome.",
+    "translation": "不客气。"
+  },
+  {
+    "id": "phrase-08",
+    "english": "See you soon!",
+    "translation": "回头见！"
+  },
+  {
+    "id": "phrase-09",
+    "english": "Let's play.",
+    "translation": "我们一起玩吧。"
+  },
+  {
+    "id": "phrase-10",
+    "english": "My turn!",
+    "translation": "轮到我了！"
+  },
+  {
+    "id": "phrase-11",
+    "english": "Your turn!",
+    "translation": "轮到你了！"
+  },
+  {
+    "id": "phrase-12",
+    "english": "Here you are.",
+    "translation": "给你。"
+  },
+  {
+    "id": "phrase-13",
+    "english": "May I have some water?",
+    "translation": "可以给我一些水吗？"
+  },
+  {
+    "id": "phrase-14",
+    "english": "I like apples.",
+    "translation": "我喜欢苹果。"
+  },
+  {
+    "id": "phrase-15",
+    "english": "Please help me.",
+    "translation": "请帮帮我。"
+  },
+  {
+    "id": "phrase-16",
+    "english": "Great job!",
+    "translation": "做得好！"
+  }
+]
